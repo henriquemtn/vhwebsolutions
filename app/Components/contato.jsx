@@ -110,7 +110,7 @@ const Contato = () => {
                 </button>
               </div>
               <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <a class="text-indigo-500">vhwebsolutions@email.com</a>
+          <a class="text-indigo-500">vhwebsolutions@gmail.com</a>
           <p class="leading-normal my-5">Vitor e Henrique,
             <br/>Florianópolis, Santa Catarina.
           </p>
