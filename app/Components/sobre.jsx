@@ -12,10 +12,11 @@ const About = () => {
             <div className="flex flex-col text-left xl:w-full mb-20 mdm:px-7">  
                 <h1 className="text-3xl font-medium text-center title-font mb-4 text-gray-700">Sobre a nossa equipe</h1>      
                 <p className="lg:w-2/3 mx-auto leading-relaxed text-base pb-2">Bem-vindo(a) à VH Web Solutions,</p>
-                <p className="lg:w-2/3 mx-auto leading-relaxed text-base pb-2">Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio. Com uma vasta experiência no mercado, estamos prontos para enfrentar desafios e entregar resultados excepcionais, sempre com foco na satisfação dos nossos clientes.</p>
-                <p className="lg:w-2/3 mx-auto leading-relaxed text-base pb-2">Nossa missão é tornar a sua presença online única e impactante. Acreditamos que cada empresa é única, e é por isso que nos dedicamos a desenvolver sistemas personalizados e sites sob medida, de acordo com as necessidades e objetivos específicos de cada cliente.</p>
-                <p className="lg:w-2/3 mx-auto leading-relaxed text-base pb-2">Entendemos a importância da primeira impressão. Por isso, criamos interfaces atraentes e funcionais, garantindo que seus clientes tenham uma experiência memorável ao interagir com o seu site.</p>
-                <p className="lg:w-2/3 mx-auto leading-relaxed text-base pb-2">Além disso, sabemos que a manutenção contínua é essencial para garantir o bom funcionamento dos sistemas e sites. Nossa equipe está sempre à disposição para oferecer suporte técnico ágil e eficiente, garantindo que você esteja sempre um passo à frente da concorrência.</p>
+                <p className="lg:w-2/3 mx-auto leading-relaxed text-base pb-2 text-justify">Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio. Com uma vasta experiência no mercado, estamos prontos para enfrentar desafios e entregar resultados excepcionais, sempre com foco na satisfação dos nossos clientes.
+                Nossa missão é tornar a sua presença online única e impactante. Acreditamos que cada empresa é única, e é por isso que nos dedicamos a desenvolver sistemas personalizados e sites sob medida, de acordo com as necessidades e objetivos específicos de cada cliente.
+                Entendemos a importância da primeira impressão. Por isso, criamos interfaces atraentes e funcionais, garantindo que seus clientes tenham uma experiência memorável ao interagir com o seu site.
+                Além disso, sabemos que a manutenção contínua é essencial para garantir o bom funcionamento dos sistemas e sites. Nossa equipe está sempre à disposição para oferecer suporte técnico ágil e eficiente, garantindo que você esteja sempre um passo à frente da concorrência.
+                </p>
             </div>
         </FadeInOnScroll>
             <div className="flex justify-center flex-wrap">

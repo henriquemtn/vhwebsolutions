@@ -4,8 +4,8 @@ import About from './Components/sobre'
 import Servicos from './Components/servicos'
 import Etapas from './Components/etapas'
 import Projetos from './Components/projetos'
-import Contato from './Components/contato'
 import Footer from './Components/footer'
+import ContatoProvisorio from './Components/contato2'
 
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
       <Servicos />
       <Etapas />
       <Projetos />
-      <Contato />
+      <ContatoProvisorio />
       <Footer />     
     </>
   )
