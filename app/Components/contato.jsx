@@ -10,7 +10,7 @@ const Contato = () => {
 
     const formData = {
       nome: event.target.nome.value,
-      email: event.target.email.value,
+      email: event.target.email.value, 
       telefone: event.target.telefone.value,
       mensagem: event.target.mensagem.value,
     };
